@@ -1,2 +1,6 @@
 This is a new test text.
+<<<<<<< Updated upstream
 git remote tests.
+=======
+git local tests.
+>>>>>>> Stashed changes
