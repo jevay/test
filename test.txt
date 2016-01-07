@@ -1,4 +1,0 @@
-This is a new test text.
-git remote tests.
-git local tests.
-add some local texts.
