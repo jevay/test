@@ -1,6 +1,17 @@
+<<<<<<< Updated upstream
 update test ewlrqijljalsdfijsdlf
 adlfjaldrjiwe
 update on 1.26
 asdflkjasdlrqw
 asdfaerq
 asdfwqerqwerd
+=======
+update test
+asdfalsdkjasf
+asdfasdqwerqer
+adfad
+update on 1.26
+asdfasdfqreklkjlsdfa
+asdfladflwqoeru
+adffer
+>>>>>>> Stashed changes
